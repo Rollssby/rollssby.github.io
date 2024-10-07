@@ -1,0 +1,4 @@
+﻿User-agent: *
+Disallow:
+Sitemap: http://sinocnin.byethost8.com/sitemap.xml
+Sitemap: http://sinocnin.byethost8.com/sitemap_images.xml
